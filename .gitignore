@@ -26,6 +26,9 @@ dist-ssr
 # Lovable sandbox workspace (contains an embedded access token)
 .workspace
 
+# Claude Code local tooling
+.claude/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
